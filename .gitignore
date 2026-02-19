@@ -1,0 +1,18 @@
+# Temp files Word/Excel
+~$*.docx
+~$*.xlsx
+
+# Copies
+*.tmp
+*.bak
+*.swp
+
+# Python
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+#C++
+*.exe
